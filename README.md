@@ -29,6 +29,4 @@ Web Developer mit Lernlust und Humor. Ich strebe nach Qualität, aber nicht nach
 
 <p align="left"> <a href="https://www.github.com/herbertnikolajewskidci" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/herbert-nikolajewski-54b112200/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
 
-<a href="https://github.com/herbertnikolajewskidci" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertnikolajewskidci&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
