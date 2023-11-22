@@ -24,7 +24,9 @@ Web Developer mit Lernlust und Humor. Ich strebe nach Qualität, aber nicht nach
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 </p>
 
-<div align="center">[![Herbert's GitHub stats](https://github-readme-stats.vercel.app/api?username=herbertnikolajewskidci)](https://github.com/herbertnikoaljewski/github-readme-stats)</div>
+<div align="center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertnikolajewskidci&theme=react&layout=compact" />
+</div>
 
 ### Socials
 
