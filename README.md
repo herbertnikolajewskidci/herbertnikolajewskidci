@@ -1,7 +1,7 @@
 Hi 👋 My name is Herbert Nikolajewski
 =====================================
 
-Web Dev Lecturer at DCI
+Web Dev 
 -----------------------
 
 Web Developer mit Lernlust und Humor. Ich strebe nach Qualität, aber nicht nach Perfektion. Ich lerne aus meinen Fehlern und bin offen für Feedback.
