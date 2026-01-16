@@ -34,7 +34,10 @@ I am a proven full-stack developer based in **Regensburg, Germany**, specializin
 
 ### 📊 GitHub Stats
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertnikolajewskidci&theme=react&layout=compact&hide=html,css" />
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=herbertnikolajewskidci&theme=2077" alt="Profile Details" />
+</p>
+
 
 ### 🔗 Connect with me
 
